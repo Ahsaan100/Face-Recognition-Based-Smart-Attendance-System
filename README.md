@@ -1,4 +1,4 @@
-# Face Recognition Based Smart Attendance System Using Python & Machine Learning, Face Recognition Based Smart Attendance System Using Python & Machine Learning,
+# Face Recognition Based Smart Attendance System Using Python & Machine Learning
 The Face Recognition-Based Smart Attendance System is an innovative application of Python and Machine Learning that streamlines the traditional attendance tracking process. By leveraging facial recognition technology, this system offers a seamless and efficient way to record attendance.
 The system operates in real-time, enabling instant updates to attendance records as individuals are recognized.
 The K-Nearest Neighbors (KNN) Algorithm is used for Face Detection.
